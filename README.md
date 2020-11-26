@@ -4,7 +4,7 @@ Run the code like this:
 
 If you want to understand how the code works, the details are here:
 
-[https://realpython.com/blog/python/face-recognition-with-python/](https://medium.com/geeky-bawa/)
+[https://medium.com/geeky-bawa/face-recognition-with-python-in-under-25-lines-of-code-bc830c4a7078](https://medium.com/geeky-bawa/)
 
 
 # Resources 
